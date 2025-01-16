@@ -21,11 +21,13 @@ Rellenado de datos faltantes: Aplicamos funciones de Python para imputar valores
 Segmentación de la tabla de hechos: Dividimos la tabla de ventas por trimestres y años, lo que permite cargar solo los datos necesarios mediante parámetros y carpetas en Power BI, optimizando así el rendimiento del reporte.
 Eliminación de columnas innecesarias: Mantuvimos únicamente las columnas relevantes para el análisis.
 Exportación final: Guardamos los datos procesados en una carpeta estructurada para su posterior carga en Power BI.
+
 **2. Procesamiento en Power BI**
 Limpieza adicional y tipificación: Ajustamos el tipo de datos de las columnas y realizamos limpieza final.
 Creación de una tabla de calendario: Basada en la columna de fechas de la tabla de ventas, permite que los nuevos datos se integren automáticamente en el modelo y reporte.
 Modelado de datos: Establecimos relaciones entre las tablas de hechos y dimensiones.
 Cálculo de medidas DAX: Creamos las métricas necesarias para el análisis, incluyendo ventas totales, beneficios, y métricas basadas en Time Intelligence.
+
 **3. Diseño del Reporte**
 Visualizaciones Interactivas:
 Tablas y gráficos dinámicos para mostrar las ventas totales por condado, ciudad y tienda.
@@ -33,9 +35,12 @@ Tarjetas y KPIs para visualizar rápidamente métricas clave como ventas totales
 Análisis de tendencias: Usamos Time Intelligence para comparar ventas entre años.
 Simulaciones dinámicas: Incorporamos un slider que permite analizar el impacto de descuentos o aumentos de precios en las ventas.
 Interfaz de usuario atractiva: Diseñamos un reporte visualmente agradable y funcional, utilizando imágenes y recursos gráficos de Pixabay.
-Recursos Utilizados
-Datos: Dataset público de Kaggle.
-Imágenes: Recursos visuales gratuitos de Pixabay.
+
+##Recursos Utilizados
+
+Datos: [Kaggle](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)
+Imágenes: [Logo Marca](https://pixabay.com/es/vectors/perro-logo-resumen-animal-canino-8576035/)
+[Logos Bookmarks](https://pixabay.com/users/inspire-studio-22128832/)
 Herramientas:
 Python: Limpieza y preprocesamiento de datos.
 Power BI: Modelado, visualización y análisis interactivo.
