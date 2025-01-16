@@ -36,7 +36,7 @@ Visualizaciones Interactivas:
 - Simulaciones dinámicas: Incorporamos un slider que permite analizar el impacto de descuentos o aumentos de precios en las ventas.
 - Interfaz de usuario atractiva: Diseñamos un reporte visualmente agradable y funcional, utilizando imágenes y recursos gráficos de Pixabay.
 
-##Recursos Utilizados
+## Recursos Utilizados
 
 Datos: [Kaggle](https://www.kaggle.com/datasets/residentmario/iowa-liquor-sales)
 
@@ -48,7 +48,7 @@ Herramientas:
 - Python: Limpieza y preprocesamiento de datos.
 - Power BI: Modelado, visualización y análisis interactivo.
 
-##Instrucciones de Uso
+## Instrucciones de Uso
 
 Requisitos previos:
 - Tener Python instalado con las siguientes bibliotecas: pandas, os.
@@ -57,7 +57,7 @@ Requisitos previos:
 - Navega por los diferentes gráficos y tablas interactivas.
 - Usa los filtros y sliders para personalizar tu análisis.
 
-##Resultados
+## Resultados
 
 El reporte final proporciona:
 - Un análisis claro de los condados y ciudades con mayores ventas.
@@ -65,7 +65,7 @@ El reporte final proporciona:
 - Comparativas de ventas entre años con Time Intelligence.
 - Herramientas para simular escenarios de descuentos o cambios de precio.
 
-##Agradecimientos
+## Agradecimientos
 
 Quiero agradecer a:
 - Los creadores del dataset en Kaggle por compartir los datos.
