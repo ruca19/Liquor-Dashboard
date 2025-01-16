@@ -56,6 +56,7 @@ Requisitos previos:
 - Power BI Desktop para cargar y explorar el reporte.
 - Navega por los diferentes gráficos y tablas interactivas.
 - Usa los filtros y sliders para personalizar tu análisis.
+- El que quiera disponer del proyecto .pbix contacteme en mi [Email](georgianrucareanu@gmail.com)
 
 ## Resultados
 
