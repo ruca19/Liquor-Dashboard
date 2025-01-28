@@ -72,5 +72,5 @@ Quiero agradecer a:
 - Los creadores del dataset en Kaggle por compartir los datos.
 - Pixabay por proporcionar imágenes gratuitas para enriquecer el diseño del reporte.
 
-  ## Aclaración
+## Aclaración
 - Este proyecto es un ejercicio educativo creado con fines de aprendizaje y exploración. Su objetivo es practicar y demostrar conceptos específicos del Analisis de Datos aprendidos por mi. No está destinado a ser una solución definitiva o una práctica recomendada.
